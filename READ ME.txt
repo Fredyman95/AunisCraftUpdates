@@ -1,0 +1,12 @@
+This updates are for modpack AunisCraft 1.2.3
+
+Instructions for december update:
+
+1. Find your modpack folder. Path looks like that
+    C:\Users\your microsoft local accont**\Twitch\Minecraft\Instances\AunisCraft
+
+2. In folder mods delete techguns-1.12.2-2.0.2.0_pre3.2
+
+3. In folder scripts delete auniscraft.zs
+
+4. Insert all files to corespondent folders

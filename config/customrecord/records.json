@@ -1,0 +1,157 @@
+{  
+   "sgu1":{  
+      "item":"minecraft:iron_ingot",
+      "filename":"sgu1",
+      "name":"Destiny - door open",
+      "meta":0
+   },
+
+   "sgu2":{  
+      "item":"minecraft:gold_ingot",
+      "filename":"sgu2",
+      "name":"Destiny - close open",
+      "meta":0
+   },
+
+   "credits":{  
+      "item":"minecraft:dirt",
+      "filename":"credits",
+      "name":"M - credits",
+      "meta":0
+   },
+
+   "radio":{  
+      "item":"minecraft:sand",
+      "filename":"radio",
+      "name":"Imagine Dragons - Radioactive",
+      "meta":0   },
+
+   "sg1":{  
+      "item":"minecraft:lapis_block",
+      "filename":"sg1",
+      "name":"SG-1 opening",
+      "meta":0   },
+
+
+   "rolnicky":{  
+      "item":"minecraft:gravel",
+      "filename":"rolnicky",
+      "name":"Jingle bells",
+      "meta":0   },
+
+
+  "lordi2":{  
+      "item":"minecraft:stone",
+      "filename":"lordi2",
+      "name":"Lordi - Snow in hell",
+      "meta":0
+   },
+
+
+   "lordi1":{  
+      "item":"minecraft:cobblestone",
+      "filename":"lordi1",
+      "name":"Lordi - Blood Red Sandman",
+      "meta":0
+   },
+   "sga":{  
+      "item":"minecraft:iron_block",
+      "filename":"sga",
+      "name":"SGA opening",
+      "meta":0   },
+
+   "sgu":{  
+      "item":"minecraft:gold_block",
+      "filename":"sgu",
+      "name":"SGU opening",
+      "meta":0
+      },
+
+   "sgu3":{  
+      "item":"minecraft:diamond_block",
+      "filename":"sgu3",
+      "name":"SGU gauntlet",
+      "meta":0
+},
+
+   "lordi3":{  
+      "item":"minecraft:grass",
+      "filename":"lordi3",
+      "name":"Lordi - Devil is a loser",
+      "meta":0
+   },
+
+   "lordi4":{  
+      "item":"minecraft:leather",
+      "filename":"lordi4",
+      "name":"Lordi - Like a bee to the honey",
+      "meta":0
+
+},
+
+   "ride":{  
+      "item":"minecraft:gunpowder",
+      "filename":"ride",
+      "name":"Brothers of metal - Ride of the valkyries",
+      "meta":0
+},
+
+   "avatar1":{  
+      "item":"minecraft:paper",
+      "filename":"avatar1",
+      "name":"Avatar - Going hunting",
+      "meta":0
+   },
+
+   "avatar2":{  
+      "item":"minecraft:brick",
+      "filename":"avatar2",
+      "name":"Avatar - A Statue Of The King",
+      "meta":0
+},
+   "avatar3":{  
+      "item":"minecraft:cactus",
+      "filename":"avatar3",
+      "name":"Avatar - Bloody Angel",
+      "meta":0
+   },
+
+   "accept":{  
+      "item":"minecraft:wheat",
+      "filename":"accept",
+      "name":"Accept - Midnight highway",
+      "meta":0
+  },
+
+   "battle":{  
+      "item":"minecraft:ender_pearl",
+      "filename":"battle",
+      "name":"Accept - Midnight highway",
+      "meta":0
+ },
+
+   "fallout":{  
+      "item":"minecraft:blaze_rod",
+      "filename":"fallout",
+      "name":"The Phoenix- Fall Out Boy",
+      "meta":0
+   },
+
+
+   "night":{  
+      "item":"minecraft:emerald",
+      "filename":"night",
+      "name":"Nightwish - Wish I Had An Angel",
+      "meta":0
+   },
+
+
+   "hammer":{  
+      "item":"minecraft:ender_eye",
+      "filename":"hammer",
+      "name":"Gloryhammer - Hootsforce",
+      "meta":0
+
+
+}
+}
